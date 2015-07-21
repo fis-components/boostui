@@ -1,7 +1,0 @@
-{
-    "repos": "https://github.com/Clouda-team/boostui.git",
-    "tag": "master",
-    "version": "1.0.0",
-    "main": "boost.js",
-    "name": "boostui"
-}
